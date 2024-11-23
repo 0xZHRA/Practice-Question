@@ -22,7 +22,7 @@ January : December -> A : Z
 
 Trunk : Branch -> Necklace : Diamond
 
-Plateau : Tough -> Brave : Coward
+Plateau : Trough -> Brave : Coward
 
 Chair : Sitting -> Ice : Skating
 
